@@ -75,7 +75,7 @@ npm install
 
 ## Grunt server
 
-use grunt serve:
+use grunt server:
 
 ```
 grunt server
