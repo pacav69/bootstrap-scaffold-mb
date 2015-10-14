@@ -1,0 +1,25 @@
+{
+  "name": "landing-page-modern-business",
+  "version": "0.0.1",
+  "homepage": "https://github.com/pacav69/landing-page-modern-business",
+  "authors": [
+    "paul cavanagh <pacav69@gmail.com>",
+ 
+  ],
+  "description": "Website - bootstrap modern business",
+  "keywords": [
+    "bootstrap",
+    "website",
+    "business",
+    "network"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "bootstrap": "~3.3.4",
+    "fastclick": "~0.6.10",
+    "gmaps": "~0.4.9",
+    "mediaelement": "~2.13.1"
+  }
+}
