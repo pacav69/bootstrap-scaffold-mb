@@ -1,12 +1,12 @@
 {
-  "name": "landing-page-modern-business",
+  "name": "Bootstrap-Scaffold-modern-business",
   "version": "0.0.1",
-  "homepage": "https://github.com/pacav69/landing-page-modern-business",
+  "homepage": "https://github.com/pacav69/Bootstrap-Scaffold-modern-business",
   "authors": [
-    "paul cavanagh <pacav69@gmail.com>"
+    "Paul Cavanagh <pacav69@gmail.com>"
 
   ],
-  "description": "Website - bootstrap modern business",
+  "description": "Website - Bootstrap-Scaffold-modern-business",
   "keywords": [
     "bootstrap",
     "website",
