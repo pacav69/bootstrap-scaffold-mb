@@ -1,7 +1,7 @@
 Bootstrap-Scaffold-modern-business
 ============
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
-
+![build](https://travis-ci.org/pacav69/bootstrap-scaffold-mb.svg?branch=master)
 
 > Bootstrap Scaffold - Modern Business by SilverPC.
 Based on a template from [startbootstrap](http://startbootstrap.com/template-overviews/modern-business/) 
